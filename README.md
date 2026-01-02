@@ -21,10 +21,12 @@ Technologies Used:
 
 Core Logic:
 Balance = Amount Paid − Equal Share
+
 Positive balance → person receives money
 Negative balance → person pays money
 
 Learning Outcome:
 - Practical use of Java collections
 - Real-life problem-solving using programming
+
 - Improved understanding of loops, conditions, and objects
